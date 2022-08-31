@@ -4,3 +4,5 @@ This script prints list of content in directory
 This script changes the working directory to the users home directory
 This script displays the content of the current directory in long format
 This script displays the current directory content including hidden files(starting with .)
+This sctript displays the current directory content in long format, with user and group IDs displayed numerically and hidden files (starting with .)
+
