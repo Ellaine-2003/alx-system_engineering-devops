@@ -8,3 +8,4 @@ This sctript displays the current directory content in long format, with user an
 This script creates a directory named my_first_directory in the /tmp/directory
 This script moves the file betty from/tmp/ to /tmp/my_first_directory
 This script changes the working directory to the previous one
+This script lists all the files including the ones that begin with a period character
