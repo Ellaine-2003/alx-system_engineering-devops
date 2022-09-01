@@ -8,3 +8,4 @@ This script adds execute permission to the owner and the group owner and read pe
 This script adds execute permission to the owner and the group owner and others
 This script deniesthe owner and groups permission and allows other users all permissions
 The script sets the mode of thefile hello to this
+The script sets the mode for hello to resemble olleh
