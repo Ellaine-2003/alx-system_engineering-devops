@@ -10,3 +10,4 @@ This script deniesthe owner and groups permission and allows other users all per
 The script sets the mode of thefile hello to this
 The script sets the mode for hello to resemble olleh
 The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+This script creates a directory called my_dir with permissions 751 in the working directory.
