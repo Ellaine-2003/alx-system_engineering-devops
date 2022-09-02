@@ -11,3 +11,5 @@ This script deletes betty
 This script deletes my_first_repository.
 This script changes the working directory to the previous one
 This script lists all the files including the ones that begin with a period character.
+This script Creates a symbolic link to /bin/ls, named __ls__
+This script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
