@@ -10,4 +10,4 @@ This script moves the file betty from/tmp/ to /tmp/my_first_directory
 This script deletes betty
 This script deletes my_first_repository.
 This script changes the working directory to the previous one
-This script lists all the files including the ones that begin with a period character
+This script lists all the files including the ones that begin with a period character.
