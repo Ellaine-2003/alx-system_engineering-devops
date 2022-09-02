@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff working directory
+chown vincent:staff *
